@@ -11,4 +11,5 @@ this auto-clicker detects and clicks multiple on-screen targets using image reco
 ### AI
 I vibe coded this in like 30 seconds from my phone.  it works and I understand the code so who cares.  I'll maybe fix some of the dumber decisions later.
 
-the purpose was to get around nexus's new beta resumable download dialog box, which existing nexus-centric autoclickers don't know what they're doing with
+the purpose was to get around nexus's new beta resumable download dialog box, which existing nexus-centric autoclickers don't know what they're doing with.  
+built for wabbajack but probably works for collections via vortex.  don't quote me on that, I don't use vortex.  try it yourself.  
