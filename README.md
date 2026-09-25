@@ -6,7 +6,7 @@ python autoclicker for nexusmods/wabbajack
 ## running
 ```python nexusautoclick.py```
 
-this auto-clicker detects and clicks multiple on-screen targets using image recognition with filename based priority and, customizable scanning regions through a selection dialog.  click timing is randomized to avoid detection
+this auto-clicker detects and clicks multiple on-screen targets using image recognition with filename based priority and customizable scanning regions through a selection dialog.  click timing is randomized to avoid detection
 
 ### AI
 I vibe coded this in like 30 seconds from my phone.  it works, who cares
